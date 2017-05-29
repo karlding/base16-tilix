@@ -8,8 +8,8 @@ functional config file for [gnunn1/tilix](https://github.com/gnunn1/tilix).
 To use, you can symlink the directory to ``~/.config/tilix/schemes``:
 
 ```bash
-git clone https://github.com/karlding/base16-tilix.git
-cd base16-tilix
+git clone https://github.com/karlding/base16-tilix.git && cd base16-tilix/
+cd tilix/
 BASE16_TILIX_THEME_DIR=`pwd`
 mkdir -p ~/.config/tilix/schemes
 cd ~/.config/tilix/schemes
