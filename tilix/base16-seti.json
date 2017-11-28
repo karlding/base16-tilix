@@ -4,9 +4,9 @@
     "comment": "",
     "cursor-background-color": "#43a5d5",
     "cursor-foreground-color": "#43a5d5",
-    "dim-color": "#8ec43d",
+    "dim-color": "#282a2b",
     "foreground-color": "#43a5d5",
-    "highlight-background-color": "#8ec43d",
+    "highlight-background-color": "#282a2b",
     "highlight-foreground-color": "#43a5d5",
     "name": "Seti UI (base16)",
     "palette": [
