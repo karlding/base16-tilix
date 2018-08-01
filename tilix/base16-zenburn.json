@@ -1,5 +1,5 @@
 {
-    "background-color": "#3f3f3f",
+    "background-color": "#383838",
     "badge-color": "#dca3a3",
     "comment": "",
     "cursor-background-color": "#808080",
@@ -10,7 +10,7 @@
     "highlight-foreground-color": "#808080",
     "name": "Zenburn (base16)",
     "palette": [
-        "#3f3f3f",
+        "#383838",
         "#dca3a3",
         "#5f7f5f",
         "#e0cf9f",
@@ -18,7 +18,7 @@
         "#dc8cc3",
         "#93e0e3",
         "#dcdccc",
-        "#4f4f4f",
+        "#6f6f6f",
         "#dca3a3",
         "#5f7f5f",
         "#e0cf9f",
