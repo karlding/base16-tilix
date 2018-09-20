@@ -1,5 +1,5 @@
 {
-    "background-color": "#1e1f29",
+    "background-color": "#282a36",
     "badge-color": "#ff5c57",
     "comment": "",
     "cursor-background-color": "#a5a5a9",
@@ -10,14 +10,14 @@
     "highlight-foreground-color": "#a5a5a9",
     "name": "Snazzy (base16)",
     "palette": [
-        "#1e1f29",
+        "#282a36",
         "#ff5c57",
         "#5af78e",
         "#f3f99d",
         "#57c7ff",
         "#ff6ac1",
         "#9aedfe",
-        "#eff0eb",
+        "#e2e4e5",
         "#78787e",
         "#ff5c57",
         "#5af78e",
